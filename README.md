@@ -1,5 +1,7 @@
 # Simple 2D Physics Engine in Java
 
+<img src="physics_engine_screenshot.png" width = 400 >
+
 This application is a custom two-dimensional physics engine that simulates rigid-body physics
 in a virtual environment. A user can add or delete two different types of shapes: squares 
 and circles.
